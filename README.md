@@ -154,4 +154,4 @@ The project uses synthetic SH-WFS spot images for initial software testing.
 
 ---
 
-**Developed as an academic software project.**
+**Developed as an academic project to demonstrate image processing, wavefront reconstruction, and turbulence characterization techniques.**
